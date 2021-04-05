@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name raspberry_kicad)(type Legacy)(uri ${KIPRJMOD}/raspberry_kicad.lib)(options "")(descr ""))
+)
